@@ -101,18 +101,6 @@ python src/inference.py --input_path data/test/ --model_path models/best_model.p
 
 ---
 
-## 📊 Model Performance
-
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|--------|----------|
-| CNN Baseline | - | - | - | - |
-| YOLO v5 | - | - | - | - |
-| Mask R-CNN | - | - | - | - |
-
-*Note: Performance metrics will be updated after model training*
-
----
-
 ## 📚 Key Notebooks
 
 - **`data_exploration.ipynb`** - Exploratory data analysis and visualization
@@ -199,5 +187,3 @@ This project is currently unlicensed. Please contact the author for licensing in
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet Classification with Deep Convolutional Neural Networks
 
 ---
-
-**Last Updated**: 2026-04-24
